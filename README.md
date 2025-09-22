@@ -4,7 +4,7 @@
 
 
 
-Assistant Professor of Cybersecurity
+Major of Cybersecurity
 
 
 
