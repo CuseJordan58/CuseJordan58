@@ -9,8 +9,8 @@ Major of Cybersecurity
 
 
 ## Objective
+I’m a sophomore Cybersecurity major at Utica University with a growing passion for offensive security. My goal is to become a penetration tester, and I’m actively building my skills through coursework, hands-on labs, and personal projects.
 
-Experienced Software Design Engineer with a demonstrated history of working in the Information Technology & Services industry.
 
 
 
@@ -22,7 +22,13 @@ Experienced Software Design Engineer with a demonstrated history of working in t
 
 | Skill                                         | Associated Project         |
 
-|-----------------------------------------------|----------------------------|
+|Curiosity and willingness to learn continuously|----------------------------|
+|Strong analytical and problem-solving abilities|
+|Attention to details|
+|Ability to work in teams or independently|
+|Operating Systems & Environments (kali linex and windows)
+
+
 
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 
